@@ -1,0 +1,2 @@
+# Whitepaper
+LiquiGuard Whitepaper
