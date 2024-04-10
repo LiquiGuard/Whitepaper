@@ -2,71 +2,72 @@
 
 **Introduction:**
 
-Within the dynamic arena of cryptocurrency, challenges constantly surface. Established in 2023, LiquiGuard rises as our sophisticated response, forging a distinct path within the comprehensive crypto environment. Its guiding principle? To enhance security, champion transparency, and ensure liquidity is unwaveringly locked, cultivating trust amongst developers and investors alike.
+In the ever-evolving landscape of cryptocurrency, LiquiGuard emerges as a beacon of innovation and trust. Established in 2024, LiquiGuard sets out to revolutionize liquidity locking, instilling confidence and transparency within the crypto community.
 
 **Objective:**
 
-Our vision is crystalline - to spearhead a revolution in liquidity locking by embedding advanced safeguards. These measures not only shield assets but also assure equitable redistribution amidst suspicious developer actions. Trust isn't just a feature at LiquiGuard; it's the very bedrock.
+Our mission is clear: to combat fraudulent activities and promote transparency in the crypto space. LiquiGuard aims to safeguard investors' assets and ensure equitable redistribution in the event of suspicious developer behavior.
 
 **The Current Landscape:**
 
-Though the digital currency domain pulses with potential, it's not devoid of pitfalls. The leading detractors? Deceptive developers executing 'rug pulls'. Such malpractices threaten to erode investor confidence in the crypto realm.
+The crypto world is not without its challenges, with rug pulls and deceptive practices undermining trust and confidence. LiquiGuard seeks to address these issues head-on with its advanced liquidity locking solutions.
 
 **The LiquiGuard Solution:**
 
-Advanced Liquidity Locking:
-At the slightest indication of irregularities, LiquiGuard's refined algorithms intervene. Funds, instead of being covertly siphoned, are equitably redistributed amongst token holders.
+Advanced Liquidity Locking: 
+Utilising sophisticated algorithms, LiquiGuard intervenes at the first sign of irregularities, preventing funds from being misappropriated and ensuring fair redistribution among token holders.
 
 **LiquiGuard Coin Workshop:**
 
-• Bespoke Design: Developers can craft coins to mirror their distinct vision.
+• Customisable Design: Developers have the freedom to create coins that align with their vision. 
 
-• Instant Code Review: Progressive, AI-enhanced scans scrupulously identify and warn against any malicious functions, ensuring the inception of authentic coins.
+• Instant Code Review: AI-powered scans thoroughly examine coin code, identifying and flagging any malicious functions. 
 
-• Transparent Launches: Post rigorous vetting, coins are released, echoing the confidence of their integrity.
+• Transparent Launches: Coins undergo rigorous vetting before release, ensuring the integrity and trustworthiness of the project. 
 
-• Continuous Monitoring & Intelligent Protocols:
-LiquiGuard remains ever-watchful, even post-launch. Any irregularities suggestive of rug pulls activates our systems' protective protocols, preserving the broader community's interests.
+• Continuous Monitoring & Protective Protocols: LiquiGuard remains vigilant post-launch, activating protective measures to safeguard the interests of the community against potential rug pulls.
 
 **Gaming Dimension:**
 
-LiquiGuard is not singularly transactional; it's community-centric. Our Telegram-based Elemental Duel game, currently in demo, promises to burgeon into a captivating PvP platform. Beyond mere recreation, its architecture is primed to reward and consolidate our community. Deliberate token winnings and strategic burns underpin token deflation, amplifying our ecosystem's allure.
+LiquiGuard goes beyond traditional transactions with its Telegram-based Elemental Duel game. Designed to reward and engage the community, the game fosters token deflation through deliberate winnings and strategic burns, enhancing the overall ecosystem.
 
 **Benefits:**
 
-Rejuvenated Investor Trust: With LiquiGuard's vigilance, coins exude a security level that reinvigorates the crypto ecosystem's credibility.
+• Restored Investor Trust: 
 
-Augmented Developer Prestige: Aligning with LiquiGuard amplifies developer stature, fostering profound trust within the community.
+LiquiGuard's vigilant approach restores confidence in the crypto market, mitigating risks associated with fraudulent activities. 
+
+• Elevated Developer Reputation: 
+
+Developers partnering with LiquiGuard gain credibility and trust within the community, bolstering their reputation.
 
 **A Vision for the Future: Nodes System:**
 
-A cutting-edge node system is on our horizon. Early backers will be presented with a rare opportunity to enhance this network, enticing lucrative rewards from varied revenue streams.
+LiquiGuard envisions the implementation of a cutting-edge node system, offering early backers the opportunity to participate in network enhancement and reap lucrative rewards.
 
-**Strategic Roadmap for 2023 and Beyond:**
+**Strategic Roadmap for 2024 and Beyond:**
 
-Debut of Advanced Liquidity Locking Mechanism: A robust countermeasure against rug pulls.
+• Introduction of Advanced Liquidity Locking Mechanism 
 
-Rollout of the LiquiGuard Coin Workshop: An arena for developers to shape and reveal transparent coins.
+• Launch of the LiquiGuard Coin Workshop 
 
-Engaging the Wider Community: Regular dialogues ensure our offerings resonate with evolving needs.
+• Engagement with the Community through Regular Dialogues 
 
-Strategic Growth: Casting our net wider to integrate diverse blockchains and pioneer cross-chain collaborations.
+• Strategic Growth and Expansion into Diverse Blockchains 
 
-Gaming Evolution: Progressing from a foundational demo to an immersive PvP arena, tailored to reward and rivet the LiquiGuard community.
+• Evolution of Gaming Experience from Demo to PvP Arena
 
 **Financial Projections & Fundraising:**
 
-Seed Round:
+Presale Details:
 
-Soft Cap: 35 ETH
+Accepted Currency: ETH (BASE)
 
-Hard Cap: 80 ETH
+Target Raise: $1.5 M
 
-Private Round:
-
-Poised to be unveiled, the private round tokens will be priced at $0.85. Investors can anticipate a 30% vesting on launch, followed by a linear vesting of 23.3% over a three day period.
+Allocation: 40% Presalers, 40% Liquidity, 20% In-game Rewards
 
 **Concluding Remarks:**
 
-LiquiGuard transcends being a mere platform; it's a commitment. As we navigate this ambitious odyssey, from unwavering liquidity assurance to envisaging a comprehensive DEX, we warmly extend an invitation to journey with us. In unity, let's shape the future of secure, transparent digital exchange.
+LiquiGuard is not just a platform; it's a commitment to security, transparency, and innovation. As we embark on this journey, we invite the community to join us in shaping the future of secure digital exchange. Together, we can build a safer, more transparent crypto ecosystem for all.
 
